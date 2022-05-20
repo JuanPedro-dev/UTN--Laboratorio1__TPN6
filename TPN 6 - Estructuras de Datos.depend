@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1652471406 source:g:\otros ordenadores\mi portátil\carpeta drive\utn\1º cuatrimestre\programacion\practica 2 examen\tpn 6 - estructuras de datos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	<string.h>
+
